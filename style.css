@@ -1,7 +1,11 @@
 .rubrik {
     text-align: center;
 }
-.chaptername{
+.chaptername {
     text-align: center;
     font-weight: 400;
+}
+html {
+    background-color: #292929;
+    color: #DCDCDC;
 }
